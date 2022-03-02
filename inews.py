@@ -66,6 +66,3 @@ else:
     s.close()
     
 sys.exit(status)
-
-    
-
