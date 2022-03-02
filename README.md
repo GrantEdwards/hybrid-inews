@@ -17,5 +17,5 @@ hard-coded.
 When this utility receives an article, it checks the destination
 newsgroup (it can only handle posts to a single group and does not
 check for cross-posts). It then either posts the article to gmane.io
-(also hardware) using Python's NNTP client module, or it mails it
+(also hardwired) using Python's NNTP client module, or it mails it
 using Python's SMTP client module. Each post is logged to syslog.
